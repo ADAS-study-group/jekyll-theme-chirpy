@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Us
 
 # The About page
 # v2.0
@@ -7,5 +7,19 @@ title: About
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
+![Desktop View]({{ "/assets/img/about/us.jpg" | relative_url }})
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+## What we are looking into
+
+![Desktop View]({{ "/assets/img/about/main.jpg" | relative_url }})
+
+## Participants
+
+| Name   | Email                  |
+| ------ | ---------------------- |
+| 이재원 | jayleekr0125@gmail.com |
+| 이영대 | devlee8585@gmail.com   |
+| 배경준 | kyungjun.bae@gmail.com |
+| 이재하 | jh708009@gmail.com     |
+| 조승현 | coolwind@hotmail.co.kr |
+| 이현호 | happydog4927@gmail.com |
